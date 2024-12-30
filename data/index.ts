@@ -218,7 +218,7 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://linkedin.com/in/ahamed-safnas-a946ba343",
+    link: "https://linkedin.com/in/ahamed-safnas-8a968723b",
   },
   {
     id: 4,
