@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-# Portfolio_2.0
 
 # Updated Portfolio
 
