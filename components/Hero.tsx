@@ -3,7 +3,8 @@ import { FaLocationArrow } from "react-icons/fa6";
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
-import Typewriter from "typewriter-effect";
+import Typewriter from "./ui/TypewriterDynamic";
+
 import { text } from "stream/consumers";
 
 const Hero = () => {
